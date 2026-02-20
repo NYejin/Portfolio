@@ -772,6 +772,7 @@ section{padding-top: 60px;}
         font-size: 30px;
         line-height: 50px;
     }
-    .contact-mail a{margin-bottom: 30px;}
+    .contact a{transform: scale(0.7) translateY(-3px);}
+    .contact-mail{font-size: 30px;}
     .contact-address{display: none;}
 }
