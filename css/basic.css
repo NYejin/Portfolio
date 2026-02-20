@@ -624,7 +624,7 @@ section{padding-top: 60px;}
     }
     .am-item1 img{
         position: absolute;
-        top: 100px;
+        top: 90px;
         left: 50%;
         transform: translateX(-50%);
         width: 100px;
@@ -776,3 +776,4 @@ section{padding-top: 60px;}
     .contact-mail{font-size: 30px;}
     .contact-address{display: none;}
 }
+
